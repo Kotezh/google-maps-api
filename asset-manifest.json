@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/google-maps-api/static/css/main.97ae0996.css",
+    "main.js": "/google-maps-api/static/js/main.e7c6cb63.js",
+    "index.html": "/google-maps-api/index.html",
+    "main.97ae0996.css.map": "/google-maps-api/static/css/main.97ae0996.css.map",
+    "main.e7c6cb63.js.map": "/google-maps-api/static/js/main.e7c6cb63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97ae0996.css",
+    "static/js/main.e7c6cb63.js"
+  ]
+}
