@@ -1,0 +1,22 @@
+.main {
+  margin: 50px auto auto;
+  min-width: 300px;
+  width: 100%;
+  min-height: 300px;
+  padding: 0 30px;
+  box-sizing: border-box;
+  color: #61dafb;
+}
+
+.main__loading-text {
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 500px) {
+  .main {
+    font-size: 10px;
+  }
+}

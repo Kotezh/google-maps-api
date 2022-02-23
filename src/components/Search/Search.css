@@ -1,0 +1,14 @@
+.search__suggestion:hover {
+  cursor: pointer;
+}
+
+.search__suggestions {
+  margin-bottom: 20px;
+  border: 1px solid white;
+}
+
+@media screen and (max-width: 450px) {
+  .search__input:placeholder-shown {
+    font-size: 8px;
+  }
+}
