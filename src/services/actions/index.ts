@@ -7,7 +7,7 @@ import {
   CLEAR_ALL_MARKERS,
 } from "./action-types";
 
-import { IPosition } from "../../interfaces/interface-item";
+import { IPosition } from "../interfaces/interface-item";
 
 export interface ICreateMarkerAction {
   readonly type: typeof CREATE_MARKER;

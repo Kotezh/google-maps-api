@@ -1,7 +1,7 @@
 {
   "name": "funbox",
   "version": "0.1.0",
-  "homepage": "http://Kotezh.github.io/funbox",
+  "homepage": "http://Kotezh.github.io/google-maps-api",
   "private": true,
   "dependencies": {
     "@ant-design/icons": "^4.7.0",

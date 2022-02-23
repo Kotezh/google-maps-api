@@ -1,4 +1,4 @@
-import React, { FC, useCallback, useRef, useState } from "react";
+import { FC, useCallback, useRef, useState } from "react";
 import {
   GoogleMap,
   InfoWindow,
@@ -9,7 +9,7 @@ import Geocode from "react-geocode";
 import { useDispatch, useSelector } from "react-redux";
 import { changePosition, createMarker } from "../../services/actions/index";
 import { deleteMarker } from "../../services/actions/index";
-import { INewItem } from "../../interfaces/interface-item";
+import { INewItem } from "../../services/interfaces/interface-item";
 import { RootState } from "../../services/types/types";
 
 const containerStyle = {

@@ -6,12 +6,11 @@ import {
   CLEAR_ALL_MARKERS,
 } from "../actions/action-types";
 
-import { INewItem } from "../../interfaces/interface-item";
+import { INewItem } from "../interfaces/interface-item";
 import { TMarkerActions } from "../actions/index";
 
 export type TMarkersState = {
   markers: ReadonlyArray<INewItem>;
-  // markers: Array<INewItem>;
 };
 
 const initialStateMarkers: TMarkersState = {

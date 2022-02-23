@@ -18,13 +18,13 @@ TypeScript, React/Redux, Jest, HTML5, CSS3
 
 ### Проект на gh-pages:
 
-http://Kotezh.github.io/google-maps-ts
+http://Kotezh.github.io/google-maps-api
 
 ---
 
 ### Команды для запуска приложения локально (нужен API_KEY):
 
-`git clone https://github.com/Kotezh/.git` - клонировать репозиторий
+`git clone https://github.com/Kotezh/google-maps-api.git` - клонировать репозиторий
 
 `npm install` - установить зависимости
 

@@ -4,7 +4,7 @@ import { List } from "antd";
 import { CloseSquareOutlined } from "@ant-design/icons";
 import ReactDragListView from "react-drag-listview";
 import { dragAndDrop, deleteMarker } from "../../services/actions";
-import { INewItem } from "../../interfaces/interface-item";
+import { INewItem } from "../../services/interfaces/interface-item";
 import "./MarkerList.css";
 import { RootState } from "../../services/types/types";
 

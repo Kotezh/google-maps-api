@@ -4,7 +4,7 @@ import usePlacesAutocomplete from "use-places-autocomplete";
 import Geocode from "react-geocode";
 import { Select } from "antd";
 import { createMarker, moveToCenter } from "../../services/actions/index";
-import { INewItem } from "../../interfaces/interface-item";
+import { INewItem } from "../../services/interfaces/interface-item";
 import "./Search.css";
 
 const Search: FC = () => {
